@@ -78,7 +78,7 @@ with CJ
 
 ### Coding Garden with CJ
 
-YouTube.com/c/CodingGardingWithCJ
+YouTube.com/c/CodingGardenWithCJ
 
 Live stream every Monday at 8:20PM 🗻 Mountain Time
 
