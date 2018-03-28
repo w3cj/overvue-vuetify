@@ -112,6 +112,7 @@ Live stream every Monday at 8:20PM 🗻 Mountain Time
   <h2>Agenda</h2>
   <ul>
     <li>What is Vuetify.js?</li>
+    <li>Why Vuetify.js?</li>
     <li>Install/Setup</li>
     <li>Theming</li>
     <li>Layout</li>
@@ -176,6 +177,28 @@ https://www.patreon.com/vuetify
 ---
 
 # February 13th Vuetify v1.0 released
+
+---
+
+## Why <img src="https://vuetifyjs.com/static/v-alt.svg" class="vue-logo"/>uetify.js?
+
+---
+
+<img src="https://i.imgur.com/DMIX3mK.png" style="height:75px !important;width:auto !important;" />
+<img src="https://i.imgur.com/PTHkkHr.png" style="height:75px !important;width:auto !important;" />
+<img src="https://i.imgur.com/WxfuMLC.png" style="height:75px !important;width:auto !important;" />
+<img src="https://i.imgur.com/8RsUpJu.png" style="height:75px !important;width:auto !important;" />
+<img src="https://i.imgur.com/EJXZYqJ.png" style="height:75px !important;width:auto !important;" />
+<img src="https://i.imgur.com/Ori4sXD.png" style="height:75px !important;width:auto !important;" />
+
+---
+
+#### Why <img src="https://vuetifyjs.com/static/v-alt.svg" class="vue-logo-small"/>uetify.js?
+
+* Most every component you will ever need (more coming...)
+* Semantic Naming
+* Fantastic Documentation
+* Extremely Easy to Get Started
 
 ---
 
