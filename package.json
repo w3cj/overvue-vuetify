@@ -1,0 +1,15 @@
+{
+  "name": "vuetify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md --theme night --highlightTheme hybrid --port 1337 --css styles.css -i script.js README.md"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-cli-plugin-vuetify": "^0.1.0"
+  }
+}
